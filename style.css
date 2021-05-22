@@ -1,0 +1,36 @@
+img{
+  border-radius:80%;
+  width:150px;
+  height:200px;
+}
+.menu{
+  list-style : none;
+  font-family:cursive;
+  top:10px;
+  right:30px;
+  float:right; 
+}
+#welcome{
+   background: linear-gradient(#3f5efb 0%, #fc466b 100%);
+  padding-top: 100px;
+  text-align : center;
+}
+#bio{
+  text-align : center;
+   background: linear-gradient(#3f5efb 0%, #fc466b 100%);
+}
+.link {
+  display: inline;
+}
+li a {
+  color: white;
+  padding: 14px 8px;
+  text-decoration: none;
+}
+li a:hover{
+  background-color: #111;
+}
+body{
+  scroll-behavior:smooth;
+  text-align:center;
+}
